@@ -1,0 +1,29 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+  
+    color-scheme: light dark;
+    background-color: #7197e8;
+  
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  #login-link {
+    color: #4251f5
+  }
+  
+  #error-page {
+    font-size: 30px;
+    align-content: center;
+    padding-left: 5%;
+    width: 100%;
+    Color: #f01809;
+    background-color: #7197e8;
+    justify-items: center;
+    align-items: center;
+  }
